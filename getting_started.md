@@ -8,7 +8,7 @@ More information on how to compile an application for RIOT and on how to flash t
 The experiments are designed to run on the [FIT IoT-Lab testbed](https://www.iot-lab.info/).
 All protocol deployments use the [IoT-Lab M3](https://www.iot-lab.info/docs/boards/iot-lab-m3/) board.
 
-More information on the `m3` nodes sum up [here](https://doc.riot-os.org/group__boards__iotlab-m3.html), [here](https://iot-lab.github.io/docs/boards/iot-lab-m3/) and for the `a8` nodes [here](https://iot-lab.github.io/docs/boards/iot-lab-a8-m3/).
+More information on the `m3` nodes sum up [here](https://doc.riot-os.org/group__boards__iotlab-m3.html), [here](https://iot-lab.github.io/docs/boards/iot-lab-m3/).
 
 Follow [this guide](https://www.iot-lab.info/legacy/tutorials/getting-started-tutorial/index.html) for a step-wise description on scheduling experiments in the testbed.
 
